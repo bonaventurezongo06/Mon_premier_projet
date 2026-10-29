@@ -48,4 +48,6 @@ database/                      reserve aux scripts SQL
 
 ## Auteurs
 
-- (a completer : noms et prenoms)
+- Zongo Bonaventure
+-Ouédraogo Boubacar
+-Sawadogo Salifou
